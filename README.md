@@ -1,9 +1,15 @@
-# Теория тестирования
+#  Testing Theory
 
-## Определение методов, типов и уровней тестирования для приложения "Интернет-магазин"
+## Defining testing methods, types, and levels based on the description of the ["Online Store"](https://qa.demoshopping.ru/) application
 
-[Ссылка на таблицу Типы тестирования](https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0)
+[Types, methods, and levels of testing](https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0)
+ <ul>
+<li>  <a href="https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0">Types, methods, and levels of testing</a> </li> 
+</ul>
 
-## Анализ требований и макета
+## Requirements analysis based on user stories in YouTrack and application mockups in Figma
 
 [Ссылка на файл Анализ требований](https://docs.google.com/spreadsheets/d/18q3CwDtpYdr9927m4W9AODFNH9jVGkbcWxuwZMH5Vbk/edit?gid=0#gid=0)
+<ul>
+<li>  <a href="https://docs.google.com/spreadsheets/d/18q3CwDtpYdr9927m4W9AODFNH9jVGkbcWxuwZMH5Vbk/edit?gid=0#gid=0">Requirements analysis</a> </li> 
+</ul>
