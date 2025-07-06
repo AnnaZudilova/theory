@@ -4,7 +4,7 @@
 
 [Types, methods, and levels of testing](https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0)
  <ul>
-<li>  <a href="https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0">Types, methods, and levels of testing</a> </li> 
+<a href="https://docs.google.com/spreadsheets/d/1AlKlULwVwiPHHbQs0QndUujpuSNi44YCbsZLHIofoA8/edit?gid=0#gid=0">Types, methods, and levels of testing</a>
 </ul>
 
 ## Requirements analysis based on user stories in YouTrack and application mockups in Figma
